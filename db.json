@@ -1,0 +1,35 @@
+{
+
+	"posts": [
+	
+	{
+		"id": 101,
+		"title": Cinema
+	},
+	{
+		"id": 102,
+		"title": Nature
+	},
+	{
+		"id": 103,
+		"title": World
+	}
+	
+	],
+	"comments": [
+		
+	{
+		"id": 121,
+		"body": "HeLLLLOOO",
+		"postId": 101
+	},
+	{
+		"id": 122,
+		"body": "Cześć",
+		"postId": 102
+		
+	}
+		
+	]
+
+}
